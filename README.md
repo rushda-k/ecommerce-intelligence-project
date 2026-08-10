@@ -1,8 +1,10 @@
-E-Commerce Intelligence Project
+# 📊 E-Commerce Intelligence Project
 
-An end-to-end data analytics project analyzing e-commerce sales, products, payments, delivery performance, sellers, and customer reviews using **Python, SQL, and Power BI
+An end-to-end data analytics project analyzing e-commerce sales, products, payments, delivery performance, sellers, and customer reviews using **Python, SQL, and Power BI**.
 
-#Project Objective
+---
+
+## 🎯 Project Objective
 
 The objective of this project is to transform raw e-commerce data into actionable business insights.
 
@@ -18,7 +20,7 @@ The analysis focuses on:
 
 ---
 
-# Tools & Technologies
+## 🛠️ Tools & Technologies
 
 - **Python**
 - **Pandas**
@@ -29,7 +31,7 @@ The analysis focuses on:
 
 ---
 
-#Project Structure
+## 📂 Project Structure
 
 ```text
 E-Commerce-Intelligence-Project
@@ -76,21 +78,21 @@ Delivery & Customer Intelligence
 
 🔍 Key Analysis
 
-The project investigates several important business questions:
+The project investigates several important business questions.
 
-Delivery Performance
+🚚 Delivery Performance
 Which states have the strongest and weakest delivery performance?
 How long do orders typically take to reach customers?
 How frequently are orders delivered later than estimated?
 How much additional time is associated with late orders?
-Customer Experience
+⭐ Customer Experience
 How do customer review scores vary?
 Is delivery time associated with customer satisfaction?
 Do lower review scores correspond to longer delivery times?
-Seller Performance
+🏪 Seller Performance
 Which states demonstrate stronger seller on-time performance?
 Where are delivery operations weaker?
-Product & Revenue
+📦 Product & Revenue
 Which product categories generate the most revenue?
 Which categories have the highest order volumes?
 What payment methods are most commonly used?
@@ -102,7 +104,7 @@ Orders that were delivered late experienced an average delay of approximately 9.
 
 The analysis also identified differences in delivery performance across Brazilian states and highlighted the relationship between delivery time and customer review scores.
 
-📊 Analytical Workflow
+🔄 Analytical Workflow
 Raw E-Commerce Data
         ↓
 Data Inspection
@@ -118,23 +120,33 @@ Power BI Dashboard
 Business Insights & Recommendations
 🚀 Business Recommendations
 
-Based on the analysis, businesses could:
+Based on the analysis:
 
-Prioritize operational improvements in low-performing states
-Investigate logistics and delivery bottlenecks.
-Monitor late deliveries
+1. Improve Operations in Low-Performing States
+
+Investigate logistics and delivery bottlenecks in states with weaker delivery performance.
+
+2. Monitor Late Deliveries
+
 Reduce the gap between estimated and actual delivery dates.
-Improve seller performance monitoring
+
+3. Improve Seller Performance Monitoring
+
 Identify sellers or regions with consistently lower on-time performance.
-Focus on customer experience
+
+4. Focus on Customer Experience
+
 Faster and more reliable delivery can contribute to better customer satisfaction.
-Use product-level insights
+
+5. Use Product-Level Insights
+
 Prioritize high-performing categories while investigating weaker categories.
+
 📁 Dataset
 
 The project uses the Brazilian E-Commerce Public Dataset by Olist, containing information about orders, customers, products, sellers, payments, reviews, and geolocation.
 
-👩‍💻 Project Skills Demonstrated
+👩‍💻 Skills Demonstrated
 
 This project demonstrates practical experience with:
 
